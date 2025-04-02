@@ -1,0 +1,9 @@
+personally compiling btop from source was not that difficult, as a beginner I had more trouble dealing with the ssh and ubuntu itself
+the only problem for me with the btop that I faced difficulty with, is that I had an older version of ubuntu installed and then I didn't have gcc++ and one other one installed, or like the versions were too old
+also at this point I didn't realise I had an olser version installed but I did see that update notification everytime I did ssh into my vm from powershell
+so my problem was that I was updating my ubuntu to the latest release 24.o.smth and then half way through it crashed 
+the updating system crashed in the terminal and all of a sudden packages were broken and need to be fixed and reinstalled 
+so after two hours of update I had the right necessary versions of all my packages that I needed and from there it was smooth sailing, though I will admit, I did not make a local $PATH but installed btop system wide
+so that lessened some of my time as well, I have a problem uploading from my terminal to GitHub tho.. but that will fix itself in a few days but for now I have finished all of Tut 2
+
+-Mariam(username makmak-alt on github)
