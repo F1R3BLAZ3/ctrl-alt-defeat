@@ -1,0 +1,9 @@
+Reflection:
+Dear Diary
+This was actually quite fun to do and seeing everything after completion was satisfying. I did have some issues with the commands in the tut instruction for example this one:
+   ```bash
+   git clone -r https://github.com/aristocratos/btop.git
+   ```
+Although it is unrelated I had an issue logging in every time I had to install something, not necessarily cause of anything I did wrong but i set up a long password for my VM and I was getting it wrong at least 2 times before proceeding. I am changing it to a much weaker password hehe.
+But I am glad I have figured it out..baby steps(or adult strides considering I didn't know what a VM was 4 weeks ago)
+
